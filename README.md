@@ -15,7 +15,7 @@
 ## 🌟 Project Overview  
 The **Plant Disease Detection System** is an innovative machine learning application designed to help farmers, agricultural professionals, and gardening enthusiasts identify plant diseases quickly and accurately.  
 
-Using **Convolutional Neural Networks (CNN)** and dataset: **PlantVillage**, the system can analyze plant leaf images and provide **instant disease diagnosis** with **confidence scores** and **treatment recommendations**.  
+Using **Convolutional Neural Networks (CNN)** and **PlantVillage Dataset**, the system can analyze plant leaf images and provide **instant disease diagnosis** with **confidence scores** and **treatment recommendations**.  
 
 ---
 
