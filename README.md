@@ -30,7 +30,6 @@ Using **Convolutional Neural Networks (CNN)**, the system can analyze plant leaf
 ### 💡 Solution  
 Our CNN-based system provides:  
 - ✅ Instant disease detection from leaf images  
-- ✅ High accuracy predictions (>90%)  
 - ✅ Treatment recommendations for identified diseases  
 - ✅ User-friendly web interface for easy access  
 - ✅ Batch processing for multiple images  
